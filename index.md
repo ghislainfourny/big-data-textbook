@@ -14,6 +14,19 @@ Current content:
 4. Distributed file systems
 5. Syntax
 
+Upcoming chapters (already available on YouTube):
+
+6. Wide column stores
+7. Data modeling and validation
+8. Massive parallel processing (MapReduce)
+9. Resource management
+10. Massive parallel processing (Spark)
+11. Document stores
+12. Querying denormalized data
+13. Graph databases
+14. Data warehouses and data cubes
+15. Wrap up
+
 # YouTube course recordings
 
 All course recordings are available on [YouTube](https://www.youtube.com/c/GhislainFournysLectures)
