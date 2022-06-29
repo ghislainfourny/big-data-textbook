@@ -5,7 +5,7 @@ The Big Data textbook is an ongoing effort to create a textbook with the content
 
 The latest version can be found [here](https://tinyurl.com/bigdatatextbook).
 
-It can be shared, but please only do so by giving the url https://tinyurl.com/bigdatatextbook
+It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
 ## YouTube course recordings
 
