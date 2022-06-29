@@ -6,6 +6,14 @@ The latest version can be found [here](https://tinyurl.com/bigdatatextbook).
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
+Current content:
+
+1. Introduction and motivation
+2. Lessons learned and SQL brushup
+3. Object storage
+4. Distributed file systems
+5. Syntax
+
 # YouTube course recordings
 
 All course recordings are available on [YouTube](https://www.youtube.com/c/GhislainFournysLectures)
