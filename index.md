@@ -1,9 +1,3 @@
----
-layout: page
-title: The Big Data Textbook
-permalink: https://ghislainfourny.github.io/big-data-textbook/
----
-
 # Big Data Textbook
 ## by Ghislain Fourny
 
