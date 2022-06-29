@@ -13,7 +13,9 @@ Current content:
 3. Object storage
 4. Distributed file systems
 5. Syntax
+    ```
     Upcoming chapters (already available on YouTube):
+    ```
 6. Wide column stores
 7. Data modeling and validation
 8. Massive parallel processing (MapReduce)
