@@ -1,3 +1,4 @@
 theme: jekyll-theme-tactile
 title: The Big Data Textbook
 description: Teaching Big Data at universities for both computer scientists and non computer scientists
+show_downloads: false
