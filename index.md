@@ -18,4 +18,4 @@ The lecture page can be found [here](https://systems.ethz.ch/education/courses/2
 
 Big Data for Engineers targets a very broad audience in all other departments at the BSc, MSc and PhD level. The material is very similar, but spending more time explaining CS prerequisites. Some programming knowledge (such as Python) and knowledge of logic and algebra (sets, etc) is assumed.
 
-The lecture page can be found [here]([https://systems.ethz.ch/education/courses/2021-autumn/big-data.html](https://systems.ethz.ch/education/courses/2022-spring/big-data-for-engineers.html))
+The lecture page can be found [here](https://systems.ethz.ch/education/courses/2022-spring/big-data-for-engineers.html)
