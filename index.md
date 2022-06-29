@@ -6,18 +6,15 @@ The latest version can be found [here](https://tinyurl.com/bigdatatextbook).
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
-```
 Current content:
-```
 
 1. Introduction and motivation
 2. Lessons learned and SQL brushup
 3. Object storage
 4. Distributed file systems
 5. Syntax
-    ```
-    Upcoming chapters (already available on YouTube):
-    ```
+
+ Upcoming chapters (already available on YouTube):
 6. Wide column stores
 7. Data modeling and validation
 8. Massive parallel processing (MapReduce)
