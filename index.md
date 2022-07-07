@@ -2,7 +2,7 @@
 
 The Big Data textbook is an ongoing effort to create a textbook with the content of the Big Data and Big Data for Engineers lectures taught at ETH Zurich.
 
-The latest version can be found [here](https://tinyurl.com/bigdatatextbook).
+The latest version can be found [here](https://www.researchgate.net/publication/361334530_Big_Data_-_from_clay_tablets_to_integrated_lakehouses).
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
