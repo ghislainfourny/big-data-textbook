@@ -16,12 +16,12 @@ Current content:
 4. Distributed file systems
 5. Syntax
 6. Wide column stores
+7. Data modeling and validation
 
    ```
    Upcoming chapters (already available on YouTube):
    ```
    
-7. Data modeling and validation
 8. Massive parallel processing (MapReduce)
 9. Resource management
 10. Massive parallel processing (Spark)
