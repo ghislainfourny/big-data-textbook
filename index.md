@@ -18,12 +18,12 @@ Current content:
 6. Wide column stores
 7. Data modeling and validation
 8. Massive parallel processing
+9. Resource management
 
    ```
    Upcoming chapters (already available on YouTube):
    ```
    
-9. Resource management
 10. Generalized parallel processing (Spark)
 11. Document stores
 12. Querying denormalized data
