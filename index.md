@@ -17,14 +17,14 @@ Current content:
 5. Syntax
 6. Wide column stores
 7. Data modeling and validation
-8. Massive parallel processing
+8. Massive parallel processing (MapReduce)
 9. Resource management
+10. Generic dataflow processing (Spark)
 
    ```
    Upcoming chapters (already available on YouTube):
    ```
    
-10. Generalized parallel processing (Spark)
 11. Document stores
 12. Querying denormalized data
 13. Graph databases
