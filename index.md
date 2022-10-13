@@ -20,12 +20,12 @@ Current content:
 8. Massive parallel processing (MapReduce)
 9. Resource management
 10. Generic dataflow processing (Spark)
+11. Document stores
 
    ```
    Upcoming chapters (already available on YouTube):
    ```
    
-11. Document stores
 12. Querying denormalized data
 13. Graph databases
 14. Data warehouses and data cubes
