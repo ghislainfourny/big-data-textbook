@@ -6,7 +6,7 @@ The latest version can be found [here](https://www.researchgate.net/publication/
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
-It will also be soon (sometime in June 2023) be available for purchase as a printed copy on Amazon; but it will remain available as a free download.
+It will also be soon (sometime in June 2023) be available for purchase as a printed copy on Amazon; but it will remain available as a free download. This way, educators can use this material with peace of mind, knowing that all their students have access. Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises and in the final exam, is also free. https://www.rumbledb.org/
 
 ```
 Current content (first edition):
