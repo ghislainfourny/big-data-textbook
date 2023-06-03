@@ -6,8 +6,10 @@ The latest version can be found [here](https://www.researchgate.net/publication/
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
+It will also be soon (sometime in June 2023) be available for purchase as a printed copy on Amazon; but it will remain available as a free download.
+
 ```
-Current content:
+Current content (first edition):
 ```
 
 1. Introduction and motivation
@@ -21,12 +23,12 @@ Current content:
 9. Resource management
 10. Generic dataflow processing (Spark)
 11. Document stores
+12. Querying denormalized data
 
    ```
-   Upcoming chapters (already available on YouTube):
+   Upcoming chapters planned for the next edition (already available on YouTube):
    ```
    
-12. Querying denormalized data
 13. Graph databases
 14. Data warehouses and data cubes
 15. Wrap up
