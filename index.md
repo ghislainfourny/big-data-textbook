@@ -6,7 +6,7 @@ The latest version can be found [here](https://www.researchgate.net/publication/
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
-It is also available for purchase as a [printed copy on Amazon US](https://www.amazon.com/dp/B0C7FHDVVB/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), [Amazon DE](https://www.amazon.de/dp/B0C7FHDVVB/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), and others (change the country code in the URL); it will remain available as a free download with regular updates. This way, educators can use this material with peace of mind, knowing that all their students have access.
+It is also available for purchase as a [color printed copy on Amazon US](https://www.amazon.com/dp/B0C7FHDVVB/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), [Amazon DE](https://www.amazon.de/dp/B0C7FHDVVB/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), and others (change the country code in the URL); it will remain available as a free download with regular updates. This way, educators can use this material with peace of mind, knowing that all their students have access.
 
 Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises and in the final exam, is also free. https://www.rumbledb.org/
 
