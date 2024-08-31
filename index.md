@@ -1,4 +1,5 @@
-# From clay tablets to data lakehouses
+# The Big Data textbook
+## From clay tablets to lakehouses
 
 The Big Data textbook is an ongoing effort to create a textbook with the content of the Big Data and Big Data for Engineers lectures taught at ETH Zurich.
 
