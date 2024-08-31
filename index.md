@@ -16,7 +16,7 @@ Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises an
 
 1. Introduction and motivation
 2. Lessons learned and SQL brushup
-3. Object storage
+3. Cloud storage
 4. Distributed file systems
 5. Syntax
 6. Wide column stores
