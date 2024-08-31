@@ -13,7 +13,7 @@ It also remains available as a free download with the latest updates. This way, 
 Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises and in the final exam, is also free. https://www.rumbledb.org/
 
 ```
-Current content (first edition):
+Current content (second edition, 2024):
 ```
 
 1. Introduction and motivation
