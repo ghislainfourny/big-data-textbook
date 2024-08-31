@@ -1,4 +1,6 @@
-theme: jekyll-theme-tactile
+remote_theme: pages-themes/cayman@v0.2.0
+plugins:
+- jekyll-remote-theme
 title: The Big Data Textbook
 description: Teaching Big Data at universities for both computer scientists and non computer scientists
 show_downloads: false
