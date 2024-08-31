@@ -4,3 +4,5 @@ plugins:
 title: The Big Data Textbook
 description: Teaching Big Data at universities for both computer scientists and non computer scientists
 show_downloads: false
+github:
+- is_project_page: false
