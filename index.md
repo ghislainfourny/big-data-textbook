@@ -6,7 +6,9 @@ The latest version can be found [here](https://www.researchgate.net/publication/
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
-It is also available for purchase as a [color printed copy on Amazon US](https://www.amazon.com/dp/B0C7FHDVVB/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), [Amazon DE](https://www.amazon.de/dp/B0C7FHDVVB/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=&sr=), and others (change the country code in the URL); it will remain available as a free download with regular updates. This way, educators can use this material with peace of mind, knowing that all their students have access.
+A second edition with the content as of August 30, 2024 is available for purchase as a [color printed copy on Amazon US](https://www.amazon.com/dp/B0DFT9RTQP), [Amazon DE](https://www.amazon.de/dp/B0DFT9RTQP), and others (change the country code in the URL).
+
+It also remains available as a free download with the latest updates. This way, educators can use this material with peace of mind, knowing that all their students have access.
 
 Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises and in the final exam, is also free. https://www.rumbledb.org/
 
@@ -26,12 +28,12 @@ Current content (first edition):
 10. Generic dataflow processing (Spark)
 11. Document stores
 12. Querying denormalized data
+13. Graph databases
 
    ```
    Upcoming chapters planned for the next edition (already available on YouTube):
    ```
    
-13. Graph databases
 14. Data warehouses and data cubes
 15. Wrap up
 
