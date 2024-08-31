@@ -29,7 +29,7 @@ Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises an
 12. Querying denormalized data
 13. Graph databases
 
-## Upcoming chapters planned for the next edition (already available on YouTube):
+    Upcoming chapters planned for the next edition (already available on YouTube):
    
 14. Data warehouses and data cubes
 15. Wrap up
