@@ -1,5 +1,3 @@
-## The Big Data Textbook
-
 The Big Data textbook is an ongoing effort to create a textbook with the content of the Big Data and Big Data for Engineers lectures taught at ETH Zurich.
 
 The latest version can be found [here](https://www.researchgate.net/publication/361334530_Big_Data_-_from_clay_tablets_to_integrated_lakehouses).
@@ -12,7 +10,7 @@ It also remains available as a free download with the latest updates. This way, 
 
 Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises and in the final exam, is also free. https://www.rumbledb.org/
 
-### Current content (second edition, 2024):
+## Current content (second edition, 2024):
 
 1. Introduction and motivation
 2. Lessons learned and SQL brushup
@@ -28,7 +26,7 @@ Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises an
 12. Querying denormalized data
 13. Graph databases
 
-### Upcoming chapters planned for the next edition (already available on YouTube):
+## Upcoming chapters planned for the next edition (already available on YouTube):
    
 14. Data warehouses and data cubes
 15. Wrap up
