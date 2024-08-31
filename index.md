@@ -7,7 +7,7 @@ The latest version can be found on [ResearchGate](https://www.researchgate.net/p
 
 It can be shared, but please only do so by giving the url https://ghislainfourny.github.io/big-data-textbook/
 
-A second edition with the content as of August 30, 2024 is available for purchase as a [color printed copy or on Kindle on Amazon US](https://www.amazon.com/dp/B0DFT9RTQP), [Amazon DE](https://www.amazon.de/dp/B0DFT9RTQP), and others (change the country code in the URL).
+A second edition with the content as of August 30, 2024 is soon going to be available for purchase as a [color printed copy or on Kindle on Amazon US](https://www.amazon.com/dp/B0DFT9RTQP), [Amazon DE](https://www.amazon.de/dp/B0DFT9RTQP), and others (change the country code in the URL).
 
 It also remains available as a free download with the latest updates. This way, educators can use this material with peace of mind, knowing that all their students have access.
 
