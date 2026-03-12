@@ -50,7 +50,7 @@ Big Data for Engineers targets a very broad audience in all other departments at
 
 The lecture page can be found [here](https://systems.ethz.ch/education/courses/2022-spring/big-data-for-engineers.html)
 
-## Information Systems for Engineers
+# Information Systems for Engineers
 
 These are the slides for my other course Information Systems for Engineers, focused on relational tables and SQL. This is material commonly taught at the Bachelor's level in Computer Science programmes, but in this case repurposed for students with other backgrounds.
 
