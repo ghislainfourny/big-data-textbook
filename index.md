@@ -49,3 +49,19 @@ The lecture page can be found [here](https://systems.ethz.ch/education/courses/2
 Big Data for Engineers targets a very broad audience in all other departments at the BSc, MSc and PhD level. The material is very similar, but spending more time explaining CS prerequisites. Some programming knowledge (such as Python) and knowledge of logic and algebra (sets, etc) is assumed.
 
 The lecture page can be found [here](https://systems.ethz.ch/education/courses/2022-spring/big-data-for-engineers.html)
+
+## Information Systems for Engineers
+
+These are the slides for my other course Information Systems for Engineers, focused on relational tables and SQL. This is material commonly taught at the Bachelor's level in Computer Science programmes, but in this case repurposed for students with other backgrounds.
+
+1. Introduction [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE01.pdf)
+2. The relational model [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE02.pdf)
+3. Data definition with SQL [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE03.pdf)
+4. The relational algebra [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFSE04.pdf)
+5. Queries with SQL [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE05.pdf)
+6. Database design theory [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE06.pdf)
+7. Transactions and the three tiers [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE07.pdf)
+8. Views and indices [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE08.pdf)
+9. Data cubes [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE09.pdf)
+10. Database architecture [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE10.pdf)
+11. Outlook [&#91;slides&#93;](https://github.com/ghislainfourny/big-data-textbook/raw/refs/heads/gh-pages/ISFE11.pdf)
