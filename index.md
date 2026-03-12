@@ -11,7 +11,7 @@ A third edition with the content as of February 2026 is available for purchase a
 
 It also remains available as a free download with the latest updates. This way, educators can use this material with peace of mind, knowing that all their students have access.
 
-Note that the RumbleDB engine, used in my courses at ETH Zurich for exercises and in the final exam, is also free. https://www.rumbledb.org/
+Note that the [RumbleDB engine](https://www.rumbledb.org/), used in my courses at ETH Zurich for exercises and in the final exam, is also free.
 
 ## Current content (third edition, 2026):
 
